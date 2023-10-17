@@ -191,7 +191,7 @@ ol {
 .result__video-container {
   position: relative;
   width: 711px;
-  height: 386px;
+  min-height: 386px;
 }
 
 .result__video {
